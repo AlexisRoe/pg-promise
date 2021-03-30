@@ -1,0 +1,23 @@
+{
+    "name": "pg-promise-tutorial",
+    "version": "0.0.1",
+    "description": "Tutorial from Corey Ladovsky  on: https://www.youtube.com/watch?v=tgYztVxL41Y&t=1519s",
+    "main": "app.js",
+    "scripts": {
+        "test": "env-cmd jest",
+        "dev": "env-cmd nodemon server.js"
+    },
+    "author": "Alexis Roehrling",
+    "license": "MIT",
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "cors": "^2.8.5",
+        "env-cmd": "^10.1.0",
+        "express": "^4.17.1",
+        "pg-promise": "^10.9.5"
+    },
+    "devDependencies": {
+        "jest": "^26.6.3",
+        "nodemon": "^2.0.7"
+    }
+}
