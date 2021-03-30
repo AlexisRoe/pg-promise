@@ -25,9 +25,9 @@ create a .env.json file
 {
     "DEFAULT_PORT": 3000,
     "CONFIG": {
-        "USER": <username>,
-        "PASSWORD": <password>,
-        "HOST": <localhost or URL>,
+        "USER": < username >,
+        "PASSWORD": < password >,
+        "HOST": < localhost or URL >,
         "PORT": 5432,
         "DATABASE": "grovers_groomers",
         "MAX": 30
