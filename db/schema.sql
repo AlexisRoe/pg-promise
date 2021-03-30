@@ -1,5 +1,3 @@
--- source: https://github.com/joinpursuit/6.4-lecture-notes/blob/master/UNIT3/introToSQLTables/schema.sql
-
 DROP DATABASE IF EXISTS grovers_groomers;
 CREATE DATABASE grovers_groomers;
 
