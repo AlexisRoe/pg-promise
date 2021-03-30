@@ -4,8 +4,8 @@ const config = {
     host: 'localhost',
     port: 5432,
     database: 'grovers_groomers',
-    user: process.env.db_user,
-    password: process.env.db_password,
+    user: process.env.DB_USER,
+    password: process.env.DB_PASSWORD,
     max: 30,
 };
 
